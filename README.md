@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aditya+Mishra+👋;Frontend+%2B+React+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>_Hi,+I'm+Aditya+Mishra;>_Frontend+%2B+React+Developer;>_Open+Source+Contributor;>_System_Ready..." alt="Typing SVG" />
 </div>
 
 <br>
@@ -7,19 +7,19 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>⚡ About Me</h3>
+      <h3 style="color: #00FF00;">>_ SYS.INFO // About Me</h3>
       <p>
-        Welcome to my GitHub! I'm a developer passionate about building interactive web applications, managing state, and contributing to open-source projects.
+        Welcome to my server. I'm a developer passionate about building interactive web applications, managing state, and contributing to open-source projects.
       </p>
       <br>
       <div>
-        <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://codeforces.com/profile/AdityaM-IITH"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
+        <a href="https://codeforces.com/profile/AdityaM-IITH"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00FF00" alt="Codeforces" /></a>
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
       </div>
     </td>
     <td width="45%" valign="top" align="center">
-      <h3>🛠️ My Tech Stack</h3>
+      <h3>>_ TECH.STACK</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,git,github,vscode&theme=dark&perline=5" alt="My Skills" />
       </a>
@@ -29,21 +29,21 @@
 
 <hr>
 
-<h3 align="center">📊 Live Stats Dashboard</h3>
+<h3 align="center">>_ LIVE_METRICS</h3>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AdityaM-IITH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AdityaM-IITH&show_icons=true&theme=terminal&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaM-IITH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaM-IITH&layout=compact&theme=terminal&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <hr>
 
-<h3 align="center">🌆 3D Contribution City</h3>
+<h3 align="center">>_ NETWORK_ACTIVITY</h3>
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits Cityscape" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaM-IITH&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=Commit%20Traffic%20Monitor" alt="Activity Graph" width="100%" />
 </div>
