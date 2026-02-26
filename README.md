@@ -14,7 +14,7 @@
       <br>
       <div>
         <a href="mailto:adityamishra13r@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
-        <a href="https://codeforces.com/profile/AdityaM-IITH" target="_blank"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00FF00" alt="Codeforces" /></a>
+        <a href="https://codeforces.com/profile/AdityaM-IITH" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00FF00" alt="Codeforces" /></a>
         <a href="https://linkedin.com/in/aditya-mishra-97aa783a2"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
       </div>
     </td>
