@@ -13,9 +13,9 @@
       </p>
       <br>
       <div>
-        <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
+        <a href="mailto:adityamishra13r@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
         <a href="https://codeforces.com/profile/AdityaM-IITH"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00FF00" alt="Codeforces" /></a>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+        <a href="https://linkedin.com/in/aditya-mishra-97aa783a2"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
       </div>
     </td>
     <td width="45%" valign="top" align="center">
