@@ -34,14 +34,14 @@
   <tr>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-stats-8lew.vercel.app/api?username=AdityaM-IITH&show_icons=true&theme=terminal&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
-        alt="GitHub Stats" 
+        src="https://github-readme-stats-8lew.vercel.app/api?username=AdityaM-IITH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+        alt="GitHub Stats"
       />
     </td>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-stats-8lew.vercel.app/api/top-langs?username=AdityaM-IITH&layout=compact&theme=terminal&hide_border=true&cache_seconds=86400" 
-        alt="Top Languages" 
+        src="https://github-readme-stats-8lew.vercel.app/api/top-langs?username=AdityaM-IITH&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+        alt="Top Languages"
       />
     </td>
   </tr>
