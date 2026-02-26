@@ -43,11 +43,7 @@
 
 <hr>
 
-<h3 align="center">🐍 Commits Snake</h3>
+<h3 align="center">🌆 3D Contribution City</h3>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaM-IITH/AdityaM-IITH/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaM-IITH/AdityaM-IITH/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdityaM-IITH/AdityaM-IITH/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits Cityscape" width="100%" />
 </div>
